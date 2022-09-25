@@ -18,13 +18,9 @@
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
 - personal email :nazem.msouti@gmail.com
+- facebook : https://www.facebook.com/nazem.ms
+- instagram : https://www.instagram.com/nazemalmsouti
 
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
 
 <h2> Samples from my projects </h2>
